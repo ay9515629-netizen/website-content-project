@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home | Website Content Project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <h2 class="logo">MyProject</h2>
+    <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+    <h1>Website Content Enhancement Project</h1>
+
+    <div class="box">
+        <h2>Project Description</h2>
+        <ul>
+            <li>Review existing website content</li>
+            <li>Improve clarity and readability</li>
+            <li>Optimize content for SEO</li>
+            <li>Update final website text</li>
+        </ul>
+    </div>
+</div>
+
+<footer>
+    <p>© 2026 Website Content Project</p>
+</footer>
+
+</body>
+</html>
